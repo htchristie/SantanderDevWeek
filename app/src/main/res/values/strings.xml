@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SantanderDevWeek</string>
+    <string name="notificacao">Notificação</string>
+    <string name="greeting">Olá,</string>
+    <string name="agency">Ag</string>
+    <string name="agency_number">2030</string>
+    <string name="account">Cc</string>
+    <string name="account_number">01097954-4</string>
+    <string name="name">Cristyane</string>
+    <string name="total_balance">Saldo disponível</string>
+    <string name="currency_symbol">R$</string>
+    <string name="balance">1.324,64</string>
+    <string name="balance_limit">Saldo + Limite:</string>
+    <string name="balance_limit_sign">R$</string>
+    <string name="balance_limit_value">2.324,64</string>
+    <string name="account_statement">Ver extrato</string>
+    <string name="pay">Pagar</string>
+    <string name="transfer">Transferir</string>
+    <string name="recharge">Recarga</string>
+    <string name="last_digits">Cartão final</string>
+    <string name="last_digits_value">0033</string>
+</resources>

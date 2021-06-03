@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SantanderDevWeek</string>
+    <string name="greeting">Welcome,</string>
+    <string name="notificacao">Notification</string>
+    <string name="agency">Agcy</string>
+    <string name="account">A/c</string>
+    <string name="total_balance">Total balance</string>
+    <string name="currency_symbol">$</string>
+    <string name="balance_limit">Balance + Limit</string>
+    <string name="balance_limit_sign">$</string>
+    <string name="account_statement">Account Statement</string>
+    <string name="pay">Pay</string>
+    <string name="transfer">Transfer</string>
+    <string name="recharge">Recharge</string>
+    <string name="last_digits">Final digits</string>
+</resources>
